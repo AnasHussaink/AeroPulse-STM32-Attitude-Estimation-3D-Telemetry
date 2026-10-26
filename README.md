@@ -4,6 +4,11 @@
 
 **From sensor motion to cloud insight.** A personal embedded systems project connecting an MPU6500, STM32 firmware, a local LCD, a Python 3D ground station and optional ThingsBoard telemetry.
 
+
+https://github.com/user-attachments/assets/3ed05fa7-8f71-46f0-9d4f-ad9d76b4733b
+
+
+
 [Quick start](#quick-start) · [Hardware](docs/hardware-wiring.md) · [Firmware](docs/firmware-and-sensor-fusion.md) · [Desktop & cloud](docs/desktop-and-cloud.md) · [Results](docs/testing-and-results.md) · [Demo videos](demo/README.md)
 
 ## The problem I worked on
