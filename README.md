@@ -144,3 +144,7 @@ The cover is an illustrative promotional graphic. Photographs and GUI screenshot
 [![Repository quality](https://github.com/AnasHussaink/AeroPulse-STM32-Attitude-Estimation-3D-Telemetry/actions/workflows/quality.yml/badge.svg)](https://github.com/AnasHussaink/AeroPulse-STM32-Attitude-Estimation-3D-Telemetry/actions/workflows/quality.yml)
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for branch/PR workflow, local checks and CI coverage.
+
+## Technical scope
+
+STM32F103 embedded C firmware with MPU6500 IMU sensor fusion, complementary filtering, SPI, I2C, UART, CMake/ARM GCC, PySide6 3D telemetry and ThingsBoard MQTT.
