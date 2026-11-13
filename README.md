@@ -137,3 +137,14 @@ Embedded C and STM32 HAL; SPI, I2C, UART and SWD; sensor calibration and complem
 Additional references: [Troubleshooting](docs/troubleshooting.md), [photo gallery](docs/gallery.md), [media provenance](docs/media-and-provenance.md), [licensing](THIRD_PARTY_NOTICES.md).
 
 The cover is an illustrative promotional graphic. Photographs and GUI screenshots elsewhere are supplied project evidence. Documentation organisation was informed by established projects such as [Crazyflie](https://github.com/bitcraze/crazyflie-firmware), [PX4](https://github.com/PX4/PX4-Autopilot) and [QGroundControl](https://github.com/mavlink/qgroundcontrol); no equivalence in capability is implied.
+
+
+## Development and quality
+
+[![Repository quality](https://github.com/AnasHussaink/AeroPulse-STM32-Attitude-Estimation-3D-Telemetry/actions/workflows/quality.yml/badge.svg)](https://github.com/AnasHussaink/AeroPulse-STM32-Attitude-Estimation-3D-Telemetry/actions/workflows/quality.yml)
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for branch/PR workflow, local checks and CI coverage.
+
+## Technical scope
+
+STM32F103 embedded C firmware with MPU6500 IMU sensor fusion, complementary filtering, SPI, I2C, UART, CMake/ARM GCC, PySide6 3D telemetry and ThingsBoard MQTT.
